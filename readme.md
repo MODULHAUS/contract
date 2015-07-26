@@ -6,4 +6,6 @@ At the same time.
 
 Wow.
 
+## License
 
+_MIT_
