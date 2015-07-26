@@ -1,6 +1,8 @@
-# An open source friendly contracts.
+# An open source friendly contract.
 
-Retain rights to your work, while still giving your clients their software.  
+Retain rights to your work, and give your clients their software. 
+
+At the same time.
 
 Wow.
 
